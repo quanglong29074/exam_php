@@ -1,0 +1,22 @@
+.container{
+    padding: 50px;
+
+}
+.container h1{
+    text-align: center;
+    color: #0d6efd;
+}
+table{
+    margin-top: 20px;
+}
+.container a{
+    float: right;
+    height: 45px;
+
+}
+form{
+    padding: 0 350px;
+}
+form button {
+    float: right;
+}
